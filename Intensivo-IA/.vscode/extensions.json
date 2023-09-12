@@ -1,0 +1,8 @@
+// Deixa as extensões recomendadas dentro do projeto
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "PKief.material-icon-theme",
+        "rocketseat.theme-ombi"
+    ]
+}
